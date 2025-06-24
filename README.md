@@ -10,5 +10,5 @@ Token Details
 - Contract Address: [0xB58c8DE962A83cB6c2876CDDC2305d5656cAB985]
 (https://polygonscan.com/token/0xB58c8DE962A83cB6c2876CDDC2305d5656cAB985)
 
-#Reach out to MaLo at @DarkMarkLolo#Gmail.com
+Reach out to MaLo at DarkMarkLolo@Gmail.com
 
